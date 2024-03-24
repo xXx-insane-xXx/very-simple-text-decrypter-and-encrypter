@@ -1,4 +1,4 @@
-#VERY SIMPLE AND BASIC TEXT DECRYPTER AND ENCRYPTER
+# VERY SIMPLE AND BASIC TEXT DECRYPTER AND ENCRYPTER
 
 This program encrypts user input text and provides and option if user to want to decrypt it (very silly as it only works for the current program session)
 
